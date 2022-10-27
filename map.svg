@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.044194174"
-     inkscape:cx="9650.5933"
-     inkscape:cy="13146.529"
+     inkscape:zoom="0.062872332"
+     inkscape:cx="4461.4219"
+     inkscape:cy="6043.994"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -35,7 +35,7 @@
      inkscape:current-layer="g49900"
      showguides="false" />
   <defs
-     id="defs87814" />
+     id="defs114042" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -45,64 +45,72 @@
       <g
          id="g49900">
         <path
-           id="path55295-9-1-9-4-7"
-           style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#8b4300;stroke-width:28.484;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-           d="M 1221.4015,3167.7005 1831.0111,3655.3883 H 1221.4015 Z"
-           nom="Petit_mur" />
-        <path
-           id="path55295-9-1-9-4"
-           style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#8b4300;stroke-width:28.484;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-           d="M 1221.4015,1216.9828 H 1831.006 V 2436.1805 L 1221.4015,2862.9005 Z"
-           nom="Grand_Mur" />
-        <path
-           id="path55295"
-           style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:28.484;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-           d="M 144.66631,1216.2142 C 144.66631,625.4566 623.57201,146.5514 1214.3293,146.5514 H 1832.7532 C 2423.5105,146.5514 2902.4162,625.457 2902.6452,1216.2144 L 2902.8742,5941.079 H 144.66631  Z"
-           nom="Chemin_rouge" />
-        <path
-           id="path55295-9"
-           style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:28.484;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-           d="M 452.01606,1216.2043 C 452.01606,783.49919 848.35806,451.3506 1216.8799,451.3506 H 1835.3038 C 2200.0984,451.3506 2597.846,763.26183 2597.846,1216.2045 L 2598.075,5636.278 H 452.01606 Z"
-           nom="Chemin_jaune" />
-        <path
-           id="path55295-9-1"
-           style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#00ff00;stroke-width:28.484;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-           d="M 756.81541,1216.2148 C 756.81541,958.14069 973.04171,756.1506 1216.8786,756.1506 H 1835.3025 C 2085.634,756.1506 2293.0453,964.59119 2293.0453,1216.2148 L 2293.2743,5331.479 756.81541,5331.477  Z"
-           nom="Chemin_vert" />
-        <path
-           id="path55295-9-1-9"
-           style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:28.484;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-           d="M 1061.6212,1216.2108 C 1061.6212,1124.9109 1119.6316,1060.9536 1216.8903,1060.9536 H 1835.3142 C 1931.9987,1060.9536 1988.2511,1120.8073 1988.2511,1216.2131 L 1988.4801,5026.682 1061.6212,5026.68  Z"
-           nom="Chemin_bleu" />
-        <g
-           id="g84886"
-           transform="translate(-3057.5482,-136.5347)"
-           style="stroke:#8b4300;stroke-opacity:1" />
-        <path
-           style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:121.92;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-           d="M 302.5941,4872.388 V 1214.788 C 302.5941,712.21552 710.9972,304.8 1214.788,304.8 H 1831.0059 C 2334.7968,304.8 2743.2,712.21555 2743.2,1214.788 V 4872.388"
-           id="path11010"
-           nom="Chemin_RY" />
-        <path
-           style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:121.92;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-           d="M 0,1214.788 C 0,543.87915 543.8792,0 1214.788,0 H 1833.2119 C 2504.1208,0 3047.9999,543.87915 3047.9999,1214.788 V 6091.5881 H 0 Z"
+           style="font-variation-settings:normal;opacity:1;fill:#ff0000;fill-opacity:0.381235;stroke:#000000;stroke-width:121.92;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           d="M 0,1214.788 C 0,543.87915 543.8792,0 1214.788,0 H 1833.2119 C 2504.1208,0 3047.9999,543.87915 3047.9999,1214.788 V 4872.3804 H 0 Z"
            id="path10282"
            nom="Chemin_exterieur" />
         <path
-           style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:109.985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-           d="M 605.1881,4872.388 V 1214.788 C 605.1881,879.33356 878.1153,607.39404 1214.788,607.39401 L 1831.006,607.39404 C 2167.6786,607.39404 2440.6059,879.33356 2440.6059,1214.788 V 4872.388"
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:0.51384097;stroke:#000000;stroke-width:29.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           d="M 302.59409,1214.788 C 302.59409,743.07915 683.9008,304.8 1214.788,304.8 H 1831.0059 C 2334.5839,304.8 2743.2,712.28137 2743.2,1214.788 V 4567.5803 H 302.59409 Z"
+           id="path111135"
+           nom="Chemin_RY" />
+        <path
+           style="font-variation-settings:normal;fill:#00ff00;fill-opacity:0.381235;stroke:#000000;stroke-width:109.985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="M 605.1881,3653.1804 V 1214.788 C 605.1881,879.33356 878.1153,607.39404 1214.788,607.39401 L 1831.006,607.39404 C 2167.6786,607.39404 2440.6059,879.33356 2440.6059,1214.788 V 3653.1804 L 1831.0111,4264.9892 1221.4015,4264.9911 Z"
            id="path11016-7"
            nom="Chemin_YG" />
         <path
            id="path10273"
-           style="fill:none;stroke:#000000;stroke-width:111.252;stroke-dasharray:none;stroke-opacity:1"
-           d="M 909.9881,4872.388 V 1214.788 C 909.9881,1046.4516 1046.4516,909.98796 1214.788,909.98796 L 1833.2119,909.98806 C 2001.5483,909.98806 2138.0118,1046.4516 2138.0118,1214.788 V 4872.388"
+           style="fill:#0000f2;fill-opacity:0.381235;stroke:#000000;stroke-width:111.252;stroke-dasharray:none;stroke-opacity:1"
+           d="M 909.9804,3653.1804 909.9881,1214.788 C 909.98863,1046.4516 1046.4516,909.98796 1214.788,909.98796 L 1833.2119,909.98806 C 2001.5483,909.98806 2138.0118,1046.4516 2138.0118,1214.788 L 2135.8098,3653.1804 1831.0111,3960.1893 1221.4015,3960.1911 Z"
            nom="Chemin_BG" />
+        <path
+           id="path55295-9-1-9-4-7"
+           style="font-variation-settings:normal;fill:#8b4300;fill-opacity:1;stroke:#8b4300;stroke-width:28.484;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="M 1221.4015,3167.7005 1831.0111,3655.3883 1221.4015,3655.3902 Z"
+           nom="Petit_mur" />
+        <path
+           id="path55295-9-1-9-4"
+           style="font-variation-settings:normal;fill:#8b4300;fill-opacity:1;stroke:#8b4300;stroke-width:28.484;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="M 1221.4015,1216.9828 H 1831.006 V 2436.1805 L 1221.4015,2862.9005 Z"
+           nom="Grand_Mur" />
+        <path
+           id="path55295-9-1-9-4-8"
+           style="font-variation-settings:normal;fill:#8b4300;fill-opacity:1;stroke:#8b4300;stroke-width:28.484;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="M 2389.8024,1216.9828 H 2491.395 V 3655.3902 H 2389.8024 Z"
+           nom="2par4" />
+        <path
+           id="path55295"
+           style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:28.484;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="M 144.66631,1216.2142 C 144.66631,625.4566 623.57201,146.5514 1214.3293,146.5514 H 1832.7532 C 2423.5105,146.5514 2902.4162,625.457 2902.6452,1216.2144 L 2902.8742,4721.8854 H 144.66631 Z"
+           nom="Chemin_rouge" />
+        <path
+           id="path55295-9"
+           style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:28.484;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="M 452.01606,1216.2043 C 452.01606,783.49919 848.35806,451.3506 1216.8799,451.3506 H 1835.3038 C 2200.0984,451.3506 2597.846,763.26183 2597.846,1216.2045 L 2598.075,3655.0854 1831.0111,4417.3892 1221.4015,4417.3912 452.01606,3655.0854 Z"
+           nom="Chemin_jaune" />
+        <path
+           id="path55295-9-1"
+           style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#00ff00;stroke-width:28.484;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="M 756.81541,1216.2148 C 756.6906,958.14072 973.04171,756.1506 1216.8786,756.1506 H 1835.3025 C 2085.634,756.1506 2293.0453,964.59119 2293.0453,1216.2148 L 2293.2743,3655.0859 1831.0111,4112.5892 1221.4015,4112.5912 757.99502,3655.39 Z"
+           nom="Chemin_vert" />
+        <path
+           id="path55295-9-1-9"
+           style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:28.484;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="M 1061.6212,1216.2108 C 1061.6212,1124.9109 1119.6316,1060.9536 1216.8903,1060.9536 H 1835.3142 C 1931.9987,1060.9536 1988.2511,1120.8073 1988.2511,1216.2131 L 1988.4801,3655.0854 1831.0111,3807.7892 1221.4015,3807.7911 1061.6212,3655.0854 Z"
+           nom="Chemin_bleu" />
         <path
            style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:35.779;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
            d="M 0,6256.6631 V 0 H 3100.8866"
            id="path49914-3"
            nom="plan" />
+        <rect
+           style="fill:#ffffff;fill-opacity:0.513841;stroke:#000000;stroke-width:34.8342;stroke-dasharray:none;stroke-opacity:1"
+           id="rect103225"
+           width="3047.9995"
+           height="1216.9912"
+           x="0.00014414062"
+           y="3655.3892" />
       </g>
     </g>
   </g>

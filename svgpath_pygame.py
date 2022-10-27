@@ -14,15 +14,18 @@ from xml.dom import minidom
 from svg.path import Path, Line, Arc, CubicBezier, QuadraticBezier, parse_path
 
 
+
 if (len(sys.argv) == 1):
     print('Utilisation:', sys.argv[0],
           'nombre_de_points_par_courbes ')
     exit(1)
 
+print("\n\n\n")
+
 # svg.path point method returns a complex number p, p.real and p.imag can pull the x, and y
 # # on 0.0 to 1.0 along path, represent percent of distance along path
 n = int(sys.argv[1])  # number of line segments to draw
-scaling=10
+scaling=5
 x0=0
 y0=0
 
@@ -35,6 +38,7 @@ surface = pygame.display.set_mode((1000,1000)) # get surface to draw on
 surface.fill(pygame.Color('white'))            # set background to white
 
 path_tag = mydoc.getElementsByTagName("path")
+
 for j in range(len(path_tag)):
     
     
