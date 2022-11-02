@@ -1,26 +1,18 @@
-
 from __future__ import division  # we need floating division
 from svg.path import Path, Line, Arc, CubicBezier, QuadraticBezier, parse_path
 import pygame
 import sys
 from xml.dom import minidom
-
-
-""" demo of using a great python module svg.path by Lennart Regebro
-    see site: https://pypi.org/project/svg.path/
-    to draw svg in pygame
-"""
-
 from svg.path import Path, Line, Arc, CubicBezier, QuadraticBezier, parse_path
 
 
-
+# Si il n'y a pas d'arguments à l'appel du programme, montrer comment utiliser
 if (len(sys.argv) == 1):
     print('Utilisation:', sys.argv[0],
           'nombre_de_points_par_courbes ')
     exit(1)
 
-print("\n\n\n")
+print("\n\n\n") # 
 
 # svg.path point method returns a complex number p, p.real and p.imag can pull the x, and y
 # # on 0.0 to 1.0 along path, represent percent of distance along path
@@ -29,7 +21,9 @@ scaling=5
 x0=0
 y0=0
 
-
+file1 = open("points.txt", "w")
+file1.write("")
+file1.close()
 
 mydoc = minidom.parse("/home/tx/Documents/Github/svg_map_to_cpp/map.svg")
 
@@ -69,7 +63,9 @@ for j in range(len(path_tag)):
     pts = [ ((p.real/scaling)+x0,(p.imag/scaling)+y0) for p in (Path_elements.point(i/n) for i in range(0, n+1))]
     pygame.draw.aalines( surface,pygame.Color(color), False, pts) # False is no closing
     print(string)
-    
+    file1 = open("points.txt", "a")
+    file1.write(string)
+    file1.close()
 
 pygame.display.update() # copy surface to display
 
