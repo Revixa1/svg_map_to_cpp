@@ -19,13 +19,13 @@ print("\n\n\n") #
 n = int(sys.argv[1])  # number of line segments to draw
 scaling=5
 x0=0
-y0=0
+y0=950
 
 file1 = open("points.txt", "w")
 file1.write("")
 file1.close()
 
-mydoc = minidom.parse("/home/tx/Documents/Github/svg_map_to_cpp/map.svg")
+mydoc = minidom.parse("./map.svg")
 
 pygame.init()                                  # init pygame
 surface = pygame.display.set_mode((1000,1000)) # get surface to draw on
@@ -48,10 +48,10 @@ for j in range(len(path_tag)):
     color = style_string[idx1 + len("stroke:"): idx2]
     
     d_string = path_tag[j].attributes['d'].value
-    string=path_tag[j].attributes['nom'].value+"["+str(n)+"][2]="
+    string=path_tag[j].attributes['nom'].value+"[""][2]="
     
     Path_elements = parse_path(d_string)
-    print_pts = [ (('{'+str(p.real))+','+(str(p.imag)+'}')) for p in (Path_elements.point(i/n) for i in range(0, n+1))]
+    print_pts = [ (('{'+str(p.real))+','+(str(-1*p.imag)+'}')) for p in (Path_elements.point(i/n) for i in range(0, n+1))]
     for a in range(len(print_pts)):
         if a == 0:
             string= string + '{' 
