@@ -1,0 +1,1 @@
+python3 svgpath_pygame.py 200 -i trajet.svg -o "/home/revixa1/txgui/OneDrive - USherbrooke/COURS/S3/projet/Controle/Code_simulink/points.txt"
