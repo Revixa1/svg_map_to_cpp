@@ -6,7 +6,6 @@ from svg.path import Path, Move, Line, Arc, CubicBezier, QuadraticBezier, Close,
 import argparse
 
 
-# Si il n'y a pas d'arguments à l'appel du programme, montrer comment utiliser
 #if (len(sys.argv) == 1):
 #    print('Utilisation:', sys.argv[0],
 #          'nombre_de_points_par_courbes ','\n -i input svg file','\n -o output txt file')
