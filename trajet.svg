@@ -24,9 +24,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.6962878"
-     inkscape:cx="3479.0677"
-     inkscape:cy="2769.5772"
+     inkscape:zoom="0.42407195"
+     inkscape:cx="1266.2946"
+     inkscape:cy="3197.5706"
      inkscape:window-width="1920"
      inkscape:window-height="1046"
      inkscape:window-x="-11"
@@ -69,7 +69,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
-       d="m 0,700 c 496.3191,-5.75164 464.03038,9.0063 502.40311,-13.80037 C 540.12023,708.79411 501.02707,695.0654 1000,700"
+       d="m 0,700 c 502.40311,-13.80037 485.43822,-40.86467 502.40311,-51.6654 38.21411,2.88559 0,37.86503 497.59689,51.6654"
        id="path36839"
        sodipodi:nodetypes="ccc"
        nom="courbe" />
