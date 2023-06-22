@@ -7,7 +7,7 @@
    viewBox="0 0 1004.8062 202.63318"
    version="1.1"
    id="svg7839"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="trajet.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,17 +24,47 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.42407195"
-     inkscape:cx="1266.2946"
-     inkscape:cy="3197.5706"
+     inkscape:zoom="0.14993208"
+     inkscape:cx="1443.9872"
+     inkscape:cy="1537.3628"
      inkscape:window-width="1920"
-     inkscape:window-height="1046"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:pageshadow="2" />
   <defs
-     id="defs7836" />
+     id="defs7836">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path943" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path946" />
+    </marker>
+  </defs>
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
@@ -73,5 +103,52 @@
        id="path36839"
        sodipodi:nodetypes="ccc"
        nom="courbe" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1;marker-end:url(#Arrow1Lend);marker-start:url(#Arrow1Lstart)"
+       d="m -112.24359,605.08492 v 83.60413 l 64.886784,0"
+       id="path46" />
+    <text
+       xml:space="preserve"
+       style="font-size:33.9388px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.848473"
+       x="-86.629974"
+       y="614.84589"
+       id="text2233"><tspan
+         sodipodi:role="line"
+         id="tspan2231"
+         style="stroke-width:0.848473"
+         x="-86.629974"
+         y="614.84589">Y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:33.9388px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.848473"
+       x="-46.084126"
+       y="677.3512"
+       id="text2233-3"><tspan
+         sodipodi:role="line"
+         id="tspan2231-7"
+         style="stroke-width:0.848473"
+         x="-46.084126"
+         y="677.3512">X</tspan></text>
+    <path
+       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:17.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="M 0,0H 1003.31"
+       id="path10095" />
+    <text
+       xml:space="preserve"
+       style="font-size:80.2432px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:2.00608"
+       x="-61.505192"
+       y="-45.415623"
+       id="text12832"><tspan
+         sodipodi:role="line"
+         id="tspan12830"
+         style="stroke-width:2.00608"
+         x="-61.505188"
+         y="-45.415623">(0,0)</tspan></text>
+    <circle
+       style="fill:#000000;stroke-width:3.30205;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       id="path13332"
+       cx="2.6718101e-06"
+       cy="1.1704177e-08"
+       r="24.976936" />
   </g>
 </svg>
